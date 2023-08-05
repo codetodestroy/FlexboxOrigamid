@@ -1,0 +1,23 @@
+.contato-bg {
+    background-color: #122ab2;
+}
+
+.contato {
+    max-width: 960px;
+    margin: 0 auto;
+    padding-top: 10px;
+
+    color: #fff;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.contato p, .contato a {
+    margin: 0px 10px 10px;
+}
+
+.contato a {
+    color: #fff;
+}
